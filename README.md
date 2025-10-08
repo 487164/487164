@@ -1,6 +1,6 @@
 👋 hi there! my name's 487164.
 
-we can talk wherever it suits you best: by email (you can encrypt it with /pgp-public.key.txt), telegram, or mastodon.
+we can talk wherever it suits you best: by email (you can encrypt it with [/pgp-public.key.txt](https://gist.github.com/487164/14af578b0047234b44d8fc79b88f7991)), telegram, or mastodon.
 
 if you prefer to take a quick look at what i have published there, you can read what i write in my blog (it's in spanish only atm) or check what i've been doing for a living on mnf.red/487164.
 
